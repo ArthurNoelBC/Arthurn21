@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  @__arthur21_
+- 📫 How to reach me  @arthurrnoel
 
 <!---
 Arthurn21/Arthurn21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
